@@ -1,0 +1,11 @@
+原因是没有将远程库pull到本地
+
+1
+$git pull https://git.oschina.net/bruin/post.git
+然后再push到远程库
+
+1
+$git push https://git.oschina.net/bruin/post.git
+
+
+git push -f origin master
