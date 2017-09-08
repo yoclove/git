@@ -1,10 +1,10 @@
-git init
+﻿git init
 git add .
 git commit -m 'Initial Commit'
 git push -u origin master
 
 //远程 
-git add remote orign https://**************
+git remote add orign https://**************
 
 git push -u origin master
 
