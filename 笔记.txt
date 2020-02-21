@@ -8,9 +8,4 @@ $git pull https://git.oschina.net/bruin/post.git
 $git push https://git.oschina.net/bruin/post.git
 
 
-git push -f origin master Ç¿ÍÆ
-
-
-
-
-git remote add origin git@github.com:yoclove/git.git
+git push -f origin master
