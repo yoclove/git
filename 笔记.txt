@@ -9,3 +9,6 @@ $git push https://git.oschina.net/bruin/post.git
 
 
 git push -f origin master
+
+
+rebase
